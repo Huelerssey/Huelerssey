@@ -1,16 +1,11 @@
-# 🌟 Over 5 years of experience in Python programming 🌟
+# AI Engineer specializing in LLM automation, intelligent agents, and scalable ML solutions
 
-Graduated in Systems Analysis and Development. I transform complex problems into value-driven solutions.
-
-- In **Machine Learning**, developed models for predicting and classifying vegetal impurities in sugarcane crops, drone image analysis, and motion detection systems.
-
-- In **Web Development**, specialized in creating e-commerce platforms, landing pages, and automation solutions.
-
-- In **Data Science**, built applications for exploratory analysis in real estate, financial markets (Forex and stocks), and other industries.
+Experienced in orchestrating end-to-end AI pipelines using Python, LangChain, CrewAI, HuggingFace, PyTorch, and TensorFlow.
+Skilled in deploying generative AI, NLP, computer vision, and autonomous agents to production—delivering real business impact.
 
 #
 
-### 👇👇👇👇Dive into my portfolio and see for yourself! ✨🌟
+### 👇👇👇👇Dive into my portfolio and see for yourself!
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=web&logoColor=white)](https://huelerssey-portfolio.site/)
 
 ### Connect with me!
